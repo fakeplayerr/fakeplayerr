@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fakeplayerr
-- 👀 I’m interested in Typescript, React, Golang, Rust, Flutter and more
-- 🌱 I’m currently learning Design Patterns and Architecture
-- 💞️ I’m looking to collaborate on frontend projects with React and Typescript
+- 👀 I’m interested in Godot, Golang
+- 💞️ I’m looking to collaborate on games project with Godot
 - 📫 How to reach me: marius@mariusneaga.com
 
 <!---
